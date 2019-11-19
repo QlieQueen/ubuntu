@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main(voif)
+using namespace std;
+int main(void)
 {
 	cout << "hello world" << endl;
 }
